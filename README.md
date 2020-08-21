@@ -70,6 +70,11 @@ See [GetCurrentWeatherByLocation](https://gitlab.monetplus.cz/mjiricek/android-s
 ```gradle
 implementation "com.aheaditec.architecture:architecture:$libVersions.architecture"
 ```
+## Download Functional Module [ ![Download](https://api.bintray.com/packages/ahead/Architecture/functional/images/download.svg) ](https://bintray.com/ahead/Architecture/functional/_latestVersion) 
+
+```gradle
+implementation "com.aheaditec.functional:functional:$libVersions.functional"
+```
 
 ## License
 
